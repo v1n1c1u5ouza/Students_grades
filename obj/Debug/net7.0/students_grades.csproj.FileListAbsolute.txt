@@ -1,0 +1,15 @@
+/home/v1n1c1u5ouza/dotnet/students_grades/bin/Debug/net7.0/students_grades
+/home/v1n1c1u5ouza/dotnet/students_grades/bin/Debug/net7.0/students_grades.deps.json
+/home/v1n1c1u5ouza/dotnet/students_grades/bin/Debug/net7.0/students_grades.runtimeconfig.json
+/home/v1n1c1u5ouza/dotnet/students_grades/bin/Debug/net7.0/students_grades.dll
+/home/v1n1c1u5ouza/dotnet/students_grades/bin/Debug/net7.0/students_grades.pdb
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/students_grades.csproj.AssemblyReference.cache
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/students_grades.GeneratedMSBuildEditorConfig.editorconfig
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/students_grades.AssemblyInfoInputs.cache
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/students_grades.AssemblyInfo.cs
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/students_grades.csproj.CoreCompileInputs.cache
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/students_grades.dll
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/refint/students_grades.dll
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/students_grades.pdb
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/students_grades.genruntimeconfig.cache
+/home/v1n1c1u5ouza/dotnet/students_grades/obj/Debug/net7.0/ref/students_grades.dll
